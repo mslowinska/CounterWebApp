@@ -4,5 +4,6 @@
 
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>
+<p>Hello from Gigi</p>
 </body>
 </html>
